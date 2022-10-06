@@ -25,3 +25,7 @@ print(n)
 Deterministic - relating to the philosophical doctrine that all events, including human action, are ultimately determined by causes regarded as external to the will (being able to predict) e.g chess.
 
 Real random numbers are not determinisic. 
+
+## Shuffle 
+
+The shuffle() function takes a list and shuffles it but does not return it. It does not create a new list but re orders a given sequence.
